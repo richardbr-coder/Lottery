@@ -1,0 +1,6 @@
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Midterm\Lottery\bin\Debug\Lottery.exe.config
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Midterm\Lottery\bin\Debug\Lottery.exe
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Midterm\Lottery\bin\Debug\Lottery.pdb
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Midterm\Lottery\obj\Debug\Lottery.csprojAssemblyReference.cache
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Midterm\Lottery\obj\Debug\Lottery.exe
+F:\School\CP1120 - Fundamentals of Programming I\Quizes\Midterm\Lottery\obj\Debug\Lottery.pdb
